@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PAM_Exe1</string>
+    <string name="tNama">Nama</string>
+    <string name="tLogin">LOGIN</string>
+    <string name="tPassword">Password</string>
+    <string name="btsignin">Sig-In</string>
+    <string name="regissignin">Registrasi?</string>
+    <string name="username">Username</string>
+    <string name="nama">Nama</string>
+    <string name="password">Password</string>
+    <string name="repass">Re-Password</string>
+    <string name="btnregis">Registrasi</string>
+    <string name="signup">Sign-Up</string>
+    <string name="var2">Selamat Datang</string>
+    <string name="task1">Task</string>
+    <string name="jnstask">Jenis Task</string>
+    <string name="timetask">Time Task</string>
+    <string name="Task1">Masukkan Task</string>
+    <string name="Task2">Masukkan Jenis Task</string>
+    <string name="Task3">Masukkan Lama Task</string>
+    <string name="sub">Submit</string>
+    <string name="out">Logout</string>
+</resources>
